@@ -47,7 +47,7 @@ This project simulates a real-world business workflow:
 3. Optimize customer targeting under budget constraints  
 4. Estimate business impact  
 
-## 🏗️ System Architecture
+## System Architecture
 
 The project follows an end-to-end decision intelligence pipeline:
 
