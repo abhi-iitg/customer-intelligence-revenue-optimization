@@ -113,6 +113,13 @@ Customers were ranked based on expected value:
 
 ## Dashboard
 
+The Power BI dashboard provides a decision-focused view of customer value,
+campaign performance, and targeting opportunities.
+
+### Executive Dashboard
+
+![RetailIQ Power BI Dashboard](images/dashboard.png)
+
 The dashboard focuses on decision-making:
 - KPI summary (Revenue, Profit, Targets)
 - Customer segment distribution
