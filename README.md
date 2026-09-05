@@ -9,6 +9,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/abhi-iitg/stocksense-ai"><img src="https://img.shields.io/badge/💻_GITHUB-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://abhishek-kg-portfolio-pied.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/abhishekkumargond/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mr.abhishekaa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-b91c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-4169E1?logo=postgresql&logoColor=white)
@@ -955,12 +963,9 @@ The central principle is:
 ## 👨‍💻 Connect
 
 **Abhishek Kumar Gond**  
-B.Tech — Chemical Engineering, IIT Guwahati
+B.Tech, IIT Guwahati
 
 - **GitHub:** [abhi-iitg](https://github.com/abhi-iitg)
-- **LinkedIn:** [Abhishek Kumar Gond](https://www.linkedin.com/in/abhishekkumargond/)
-- **Portfolio:** [Abhishek's Portfolio](https://abhishek-kg-portfolio-pied.vercel.app/)
-- **Email:** mr.abhishekaaa@gmail.com
 
 If this project is useful, consider giving the repository a ⭐.
 
