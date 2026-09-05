@@ -23,7 +23,7 @@
 ![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/BI-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white)
-![License](LICENSE)(https://img.shields.io/badge/License-MIT-green)
+![(LICENSE)](LICENSE)(https://img.shields.io/badge/License-MIT-green)
 
 </p>
 
