@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhi-iitg/stocksense-ai"><img src="https://img.shields.io/badge/💻_GITHUB-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://github.com/abhi-iitg/customer-intelligence-revenue-optimization.git"><img src="https://img.shields.io/badge/💻_GITHUB-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://abhishek-kg-portfolio-pied.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/abhishekkumargond/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mr.abhishekaa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-b91c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -23,7 +23,7 @@
 ![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/BI-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](LICENSE)(https://img.shields.io/badge/License-MIT-green)
 
 </p>
 
