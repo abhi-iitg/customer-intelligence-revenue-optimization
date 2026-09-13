@@ -963,7 +963,7 @@ The central principle is:
 ## 👨‍💻 Connect
 
 **Abhishek Kumar Gond**  
-B.Tech, IIT Guwahati
+B.Tech in Chemical Engineering @ IIT Guwahati
 
 - **GitHub:** [abhi-iitg](https://github.com/abhi-iitg)
 
