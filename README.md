@@ -1,4 +1,4 @@
-# RetailIQ — Customer Intelligence & Revenue Optimization Engine
+# RetailIQ - Customer Intelligence & Revenue Optimization Engine
 
 <p align="center">
   <strong>Predict customer behavior. Prioritize the right customers. Optimize limited marketing budgets.</strong>
